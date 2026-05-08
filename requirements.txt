@@ -1,11 +1,10 @@
+torch
+torchvision
+torchaudio
+--extra-index-url https://download.pytorch.org/whl/cu118
 streamlit
-numpy
 pandas
-scikit-learn
-opencv-python-headless
+numpy
+pickle-mixin
+Pillow
 tensorflow
-tensorflow-hub
-pillow
-matplotlib
-seaborn
-plotly
